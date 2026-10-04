@@ -1,0 +1,8 @@
+{
+  "name": "CBSE Shiksha - NCERT Study Portal & Board Prep",
+  "description": "Comprehensive CBSE study platform for Classes VI to XII featuring NCERT-aligned chapter notes, interactive quizzes, board PYQ papers, and personalized progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
